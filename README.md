@@ -13,8 +13,8 @@ Follow the steps below to clone the repository, build the program, and run tests
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/jetharam07/NFT-Triggered-Token-Unlock-from-vesting
-cd NFT-Triggered-Token-Unlock-from-vesting
+git clone https://github.com/jetharam07/Solana_referral_DApp
+cd Solana_referral_DApp
 ```
 
 ```bash
