@@ -102,10 +102,9 @@ The smart contract is built using the Anchor Framework and uses Program Derived 
 
 ### Frontend
 
-* React
-* Vite
-* JavaScript
-* CSS
+* Next.js
+* TypeScript
+* Tailwind CSS
 
 ### Wallet & Integration
 
